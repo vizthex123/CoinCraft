@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "coincraft:bank"
+    },
+    "facing=north": {
+      "model": "coincraft:bank"
+    },
+    "facing=east": {
+      "model": "coincraft:bank",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "coincraft:bank",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "coincraft:bank",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "coincraft:bank",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "coincraft:bank",
+      "x": 90
+    }
+  }
+}

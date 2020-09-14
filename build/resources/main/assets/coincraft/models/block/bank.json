@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "coincraft:blocks/oinank_sides",
+    "up": "coincraft:blocks/oinank_top",
+    "north": "coincraft:blocks/oinank_front",
+    "east": "coincraft:blocks/oinank_sides",
+    "south": "coincraft:blocks/oinank_sides",
+    "west": "coincraft:blocks/oinank_sides",
+    "particle": "coincraft:blocks/oinank_sides"
+  }
+}

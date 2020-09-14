@@ -1,0 +1,9 @@
+item.bronzecoin.name=Bronze Krown
+tile.bank.name=Coin Bank
+item.silvercoin.name=Silver Krown
+item.coppercoin.name=Copper Krown
+itemGroup.tabcoincraft=Coin Craft
+advancements.coins.title=Coins!
+item.platinumcoin.name=Platinum Krown
+advancements.coins.descr=Get your first Copper Coin.
+item.goldcoin.name=Gold Krown

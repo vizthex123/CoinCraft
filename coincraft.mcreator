@@ -1,0 +1,100 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CopperCoin",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BronzeCoin",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SilverCoin",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GoldCoin",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatinumCoin",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CoinCraft",
+      "type": "tab",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Coins",
+      "type": "achievement",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Bank",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.bronzecoin.name": "Bronze Krown",
+      "tile.bank.name": "Coin Bank",
+      "item.silvercoin.name": "Silver Krown",
+      "item.coppercoin.name": "Copper Krown",
+      "itemGroup.tabcoincraft": "Coin Craft",
+      "advancements.coins.title": "Coins!",
+      "item.platinumcoin.name": "Platinum Krown",
+      "advancements.coins.descr": "Get your first Copper Coin.",
+      "item.goldcoin.name": "Gold Krown"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "coincraft",
+    "modName": "CoinCraft",
+    "version": "1.0.0",
+    "author": "Caleb",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}
