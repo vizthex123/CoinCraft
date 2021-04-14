@@ -1,2 +1,4 @@
 # CoinCraft
- Official repository for the CoinCraft mod
+ Official repository for the CoinCraft mod.
+ 
+ 
